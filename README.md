@@ -6,3 +6,5 @@ Techniques:
  - Semi-supervised learning
  - Coreset
  -...
+
+# The project will start: July 2019
