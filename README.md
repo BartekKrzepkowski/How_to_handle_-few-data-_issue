@@ -7,4 +7,4 @@ Techniques:
  - Coreset
  -...
 
-# The project will start: July 2019
+# The project will start: ~~July~~ August 2019
